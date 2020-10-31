@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://lrc-maker.github.io">
-        <img src="./assets/favicons/favicon-32x32.png" alt="logo" />
+        <img src="favicon-32x32.png" alt="logo" />
     </a>
 </p>
 
